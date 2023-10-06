@@ -2,7 +2,7 @@
 
 Fitpal is a fitness website designed to help you achieve your fitness goals. Whether you're looking to lose weight, build muscle, or improve your overall health, Fitpal has you covered.
 
-![Preview]()
+![Preview](fitpal-preview.png)
 
 ## Table of Contents
 
